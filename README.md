@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricSegrest
-- 👀 I’m interested in Robotics, Solid State Physics Research, Engineering
+- 👀 I’m interested in Robotics, Physics, and Engineering
 - 🌱 I’m learning Electrical Engineering and physics
-- 💞️ I’d love to collaborate on Self Assembling Robotics Projects
+- 💞️ I’d love to collaborate on Self Assembling Robotics
 - 📫 How to reach me ericnsegrest@gmail.com
 
 <!---
